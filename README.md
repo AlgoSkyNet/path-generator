@@ -1,2 +1,2 @@
-# path-generator
+# Path generator
 Generative model for paths.
